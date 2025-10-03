@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Привет, я [Артем]!
 
-<!--
-**Kanikon163/Kanikon163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне
+🎯 [Работать дома/Миллиард долларов]  
+💼 [яжпрограммист]  
+🎓 [Умное]  
+📍 [где то на севере, возле юга, на пересечении запада и вотока]
 
-Here are some ideas to get you started:
+### 🛠 Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Статистика GitHub
+
+
+### 🔥 Мои проекты
+#### 🚀 [Название проекта 1](-)
+
+
+#### 💡 [Название проекта 2](-)
+
+
+### 📫 Как со мной связаться
+- 📧 Email: 
+- 💼 LinkedIn: 
+- 🌐 Website: 
+
+### ⚡ Интересный факт
+[На паре сижу]
